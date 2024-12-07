@@ -1,6 +1,7 @@
 # develop
 
 ```
+$ pip install --upgrade pip
 $ maturin develop
 
 $ python
@@ -13,4 +14,6 @@ $ python
 
 ```
 maturin build
+
+pip install camera_devices-0.1.0-cp310-cp310-xxx.whl
 ```
